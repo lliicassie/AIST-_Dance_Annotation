@@ -6,7 +6,7 @@ Technically, any dance video preprocessed and with accurate 3d skeleton keypoint
 
 The annotation file can be opened with ELAN platform for both qualitative and quantitative analysis for media/dance/communication studies.
 
-I wrote this but I do not think it is a considerate method for dance video analysis.
+I wrote this but I do not think it is a considerate method for dance video analysis, although it is brand new.
 
 For preprocessing, the accuracy of 3D human detection from single-view videos is currently not ideal, 
 
