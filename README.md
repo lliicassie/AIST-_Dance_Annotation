@@ -1,5 +1,7 @@
 Automatic annotation script for AIST++ dance corpus following the Functional Grammar of Dance.
 
+This is created to release the heavy workload for humanities researchers in manual video annotation of human action (dance).
+
 Technically, any dance video preprocessed and with accurate 3d skeleton keypoint and SMPL model format data can be annotated in this way.
 
 The annotation file can be opened with ELAN platform for both qualitative and quantitative analysis for media/dance/communication studies.
