@@ -2,7 +2,7 @@ Automatic annotation script for AIST++ dance corpus following the Functional Gra
 
 Technically, any dance video preprocessed and with accurate 3d skeleton keypoint and SMPL model format data can be annotated in this way.
 
-The annotation file can be opened with ELAN platform for both qualitative and quantitative analysis.
+The annotation file can be opened with ELAN platform for both qualitative and quantitative analysis for media/dance/communication studies.
 
 I wrote this but I do not think it is a considerate method for dance video analysis.
 
