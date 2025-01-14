@@ -12,7 +12,7 @@ and I have not yet found an ideal visual cue detection model.
 
 At present, the script can only accurately annotate
 
-3D human data extracted from calibrated multi-camera dance sequence.
+3D human data extracted from calibrated multi-camera dance sequence (for example, AIST++).
 
 I am looking forward to the future advancements in computer vision technology.
 
