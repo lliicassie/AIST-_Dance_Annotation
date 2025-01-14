@@ -21,4 +21,4 @@ I am looking forward to the future advancements in computer vision technology.
 [A video preprocessing demo will be uploaded soon although it will not get very precise result
 due to the limitation mentioned above.]
 
-
+Please feel free to use it for any academic research ^ ^ 
