@@ -10,8 +10,11 @@ For preprocessing, the accuracy of 3D human detection from single-view videos is
 
 and I have not yet found an ideal visual cue detection model. 
 
-At present, the script can only accurately annoate
+At present, the script can only accurately annotate
 
-3D human data extrated from calibrated multi-camera dance sequence.
+3D human data extracted from calibrated multi-camera dance sequence.
 
 I am looking forward to the future advancements in computer vision technology.
+
+[A video preprocessing demo will be uploaded soon although it will not get very precise result
+due to the limitation mentioned above.]
