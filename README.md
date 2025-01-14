@@ -8,7 +8,9 @@ I wrote this but I do not think it is a considerate method for dance video analy
 
 For preprocessing, the accuracy of 3D human detection from single-view videos is currently not ideal, 
 
-and I have not yet found an ideal visual cue detection model. At present, the script can only accurately 
+and I have not yet found an ideal visual cue detection model. 
+
+At present, the script can only accurately annoate
 
 3D human data extrated from calibrated multi-camera dance sequence.
 
