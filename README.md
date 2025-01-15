@@ -21,5 +21,6 @@ I am looking forward to the future advancements in computer vision technology.
 [A video preprocessing demo will be uploaded soon although it will not get very precise result
 due to the limitation mentioned above.]
 
+Feel free for any kind of use.
 
 If you require the annotation template file for the ELAN platform or have any questions,feel free to contact me.
