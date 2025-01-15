@@ -22,6 +22,4 @@ I am looking forward to the future advancements in computer vision technology.
 due to the limitation mentioned above.]
 
 
-This script is freely available for academic research. If you require the annotation template file for the ELAN platform or have any questions,
-
-feel free to contact me at ninomicass@gmail.com. I hope this tool proves helpful for anyone who is inerested in (hiphop)dance research.
+If you require the annotation template file for the ELAN platform or have any questions,feel free to contact me.
